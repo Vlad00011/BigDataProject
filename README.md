@@ -416,9 +416,3 @@ Here is the  Dashboard created in Power BI:
 
 you can watch the demo video <a href="https://youtu.be/iClZyC_TZyA" target="_blank">here</a> 
 
-## 10. Contacts
-
-For any inquiries or further information, please contact:
-- **Name:** Aymane Maghouti
-- **Email:** aymanemaghouti16@gmail.com
-- **LinkedIn:** <a href="https://www.linkedin.com/in/aymane-maghouti/" target="_blank">Aymane Maghouti</a><br>
